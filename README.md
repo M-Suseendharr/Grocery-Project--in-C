@@ -1,2 +1,3 @@
-# My-Small-Projects
-You can find all my small projects that I have done.
+#small Project 1
+Here you can find my first small project of grocery in C program.
+
